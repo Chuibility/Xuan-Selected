@@ -1,0 +1,159 @@
+\documentclass{article}
+	\usepackage{anysize}
+	\usepackage{CJK}				\usepackage{array}
+	\usepackage{titlesec}
+	\usepackage{amsfonts}
+	\usepackage{graphicx}
+	\usepackage{stmaryrd} 
+	\usepackage{setspace}
+	\usepackage{blindtext} % for dummy text
+ 	\usepackage[margin=2cm]{geometry}   % to change margins
+	\usepackage{titling}             % Uncomment both to   
+	\setlength{\droptitle}{-2cm}     % change title position 
+	\author{Chuibi}
+	\title{The collection of Xuan}
+\begin{document}
+	\maketitle	\renewcommand{\arraystretch}{1.2}
+
+	\section{The Knowledge About CPP}
+		\subsection{The things about STL}
+		\begin{CJK*}{UTF8}{gbsn}
+		鹤腿：vector$<$bool$>$有啥特别的吗\\
+		轩帝：vector bool是1/8倍的bool空间，这个bool是按照bit存的，普通的bool是按照int存的，类似于bitset
+		\end{CJK*}
+
+
+	\section{The Resources}
+		\subsection{About the Microsoft Softwares}
+		\begin{CJK*}{UTF8}{gbsn}
+		【风华绝代】宋998(1159893612)  11:58:12 PM\\
+		office2016\\
+		怎么激活啊吃屎\\
+		【风华绝代】宋学习(562229917)  11:59:48 PM\\
+		https://gist.github.com/LukeXuan/dfb3e3fb68cb31a0781a573df5fe1a1c\\
+		【风华绝代】宋学习(562229917)  12:01:49 AM\\
+		找到你要的key\\
+		打开命令行\\
+		【风华绝代】宋学习(562229917)  12:02:35 AM\\
+		cscript "$\setminus$program files$\setminus$Microsoft Office$\setminus$Office16$\setminus$ospp.vbs" /sethst:kms.sjtu.edu.cn\\
+		cscript "$\setminus$program files$\setminus$Microsoft Office$\setminus$Office16$\setminus$ospp.vbs" /inpkey:xxxx-xxxxx\\
+		填入你要的key\\
+		cscript "$\setminus$program files$\setminus$Microsoft Office$\setminus$Office16$\setminus$ospp.vbs" /act\\
+		应该就好了
+		\end{CJK*}
+		% Raw code:
+		% https://gist.github.com/LukeXuan/dfb3e3fb68cb31a0781a573df5fe1a1c
+		% cscript "\program files\Microsoft Office\Office16\ospp.vbs" /sethst:kms.sjtu.edu.cn
+		% cscript "\program files\Microsoft Office\Office16\ospp.vbs" /inpkey:xxxx-xxxxx
+		% cscript "\program files\Microsoft Office\Office16\ospp.vbs" /act
+	\section{About the Problems of life}
+		\subsection{The train problem}
+			\begin{figure}[hb]
+			%\centering
+			%\begin{minipage}[c]{0.5\textwidth}
+			\centering
+			\includegraphics[width=8cm]{TrainProblem1.jpg}
+			%\end{minipage}%
+			%\begin{minipage}[c]{0.5\textwidth}
+			%\centering
+			%\includegraphics[width=4cm]{TrainProblem2.jpg}
+			\caption{The train problem}
+			%\end{minipage}
+			%}
+			\end{figure}
+			% \begin{figure}[!h]
+			% \includegraphics{TrainProblem2.jpg}
+			% \end{figure}
+			\begin{CJK*}{UTF8}{gbsn}
+			\noindent 宋学习 2016/10/07 23:51:22\\
+			铁轨上一边有5个人 一边走1个人 你是会选择追随大众躺在5个人旁边 还是追求个性躺在一个人旁边\\
+			宋学习 2016/10/08 00:00:48\\
+			京都厨之战\\
+			宋学习 2016/10/08 00:04:13\\
+			如果火车从一边铁轨开过去会创造5和人类 从另一边会创造1和人类 你怎么选择\\
+			\end{CJK*}
+		\subsection{About the grade of TOEFL}
+			\begin{CJK*}{UTF8}{gbsn}
+			【活跃】16-沪-鮟鱇(1245094770) 10/7/2016 10:13:29 PM\\
+			问个问题啊 托福成绩我们只要自己看到就行了吧\\
+			那不用邮寄给任何学校咯？\\
+			【传说】15-陈亦轩(562229917) 10/7/2016 10:17:18 PM\\
+			目前不用\\
+			【活跃】16-沪-鮟鱇(1245094770) 10/7/2016 10:19:51 PM\\
+			不用寄的咯\\
+			【活跃】15-浙-宋渣(495705628) 10/7/2016 10:28:53 PM\\
+			要寄的啊\\
+			【传说】15-陈亦轩(562229917) 10/7/2016 10:29:17 PM\\
+			可以等你apply dd的时候邮寄\\
+			\end{CJK*}
+	\section{Data Communication and Networking}
+		\subsection{VPN}
+			\begin{CJK*}{UTF8}{gbsn}
+			【金犇】我要学习PLT(562229917) 0:43:20\\
+			vpn只能问你的vpn供应商获得你的ip\\
+			当然最好的做法是tor\\
+			这个真的查不到\\
+			国内完全被封锁的\\
+			国外可以用\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 0:43:50\\
+			我以前也认为是查不到的啊\\
+			【金犇】我要学习PLT(562229917) 0:44:16\\
+			vpn原理上来说只有供应商知道\\
+			然而FBI往往不是用技术手段的［\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 0:44:42\\
+			但我三国杀在家里用两台电脑打三国杀，一台开vpn，还是会被发现是的\\
+			【金犇】我要学习PLT(562229917) 0:45:05\\
+			用了一些其他协议吧\\
+			比如比vpn还要底层一点的\\
+			STUN之类\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 0:45:19\\
+			他说是ip相同\\
+			【金犇】我要学习PLT(562229917) 0:45:19\\
+			那是vpn也没办法\\
+			对啊\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 0:45:24\\
+			但我觉得ip是不同的\\
+			噢\\
+			【金犇】我要学习PLT(562229917) 0:45:37\\
+			那是它用了STUN之类的协议\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 0:45:49\\
+			那fbi也可以咯\\
+			【金犇】我要学习PLT(562229917) 0:45:53\\
+			这类协议目的是udp穿透进行p2p链接\\
+			你可以把浏览器的webrtc disable掉\\
+			【超凡脱俗】我辣鸡弹药学习AI(475229509) 0:46:13\\
+			rtc？\\
+			【金犇】我要学习PLT(562229917) 0:46:33\\
+			real time communications\\
+			它提供了STUN协议 \\而这个协议就是为了在错综复杂的网络环境中找到你的外网ip\\
+			https://tools.ietf.org/html/rfc5389\\
+			session traversal utilities for NAT\\
+			你说伪造不了IP一定是有东西没有走vpn的线路\\
+			而不是说一句vpn解决不了问题就结束了\\
+			https://diafygi.github.io/webrtc-ips/\\
+			比如这个开启udp转发以后 \\显示的是我日本的ip,关闭以后显示的是我寝室ip\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 2016/10/12 星期三 0:59:36\\
+			你关了rtc？\\
+			【金犇】我要学习PLT(562229917) 2016/10/12 星期三 0:59:39\\
+			尽管我开了全局的vpn\\
+			开了rtc\\
+			这就是webrtc\\
+			【金犇】我劍主<reapor.yurnero@gmail.com> 2016/10/12 星期三 0:59:54\\
+			关了rtc是不是也没了\\
+			【金犇】我要学习PLT(562229917) 2016/10/12 星期三 1:00:02\\
+			大概有可能会报错\\
+			\end{CJK*}
+	\section{How to Learn Like Xuan}
+		\subsection{Wikipedia}
+			\begin{CJK*}{UTF8}{gbsn}
+			【金犇】我要学习PLT(562229917) 0:50:41\\
+			你不知道wikipedia的阅读模式么\\
+			看到一个有不知道的就回去搜新的\\
+			然后就都知道了\\
+			\end{CJK*}
+\end{document}
+
+
+
+
+
