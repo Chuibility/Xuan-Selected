@@ -6,6 +6,8 @@ Life knowledge from @LukeXuan in daily life.
 
 ## Table of contents
 
+A LaTeX version can be viewed [here](latex).
+
 - [Projects](#Projects).
 - [C++ STL](#C++ STL).
 - TODO
