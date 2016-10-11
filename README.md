@@ -4,12 +4,27 @@ Life knowledge from @LukeXuan in daily life.
 
 ## Table of contents
 
-- [Project](content/project.md). Simple projects that make your life easier.
-- [Cpp STL](content/cpp-stl.md). knowledge about C++ STL.
-- Algorithms and data structure. TODO.
-- Operating systems. TODO.
-- Online Judgement. TODO.
-- Web development. TODO.
+- Projects.
+- C++ STL.
+- TODO
+
+## Projects
+
+Record simple project created by LukeXuan.
+
+### BossKey
+
+> Are you worry about be catched by your parents when you are playing games? Are you often catched by your parents when you are talking with girls or boys on QQ? You won't need to worry about that anymore! Our Bosskey is used to solve it!
+
+https://sourceforge.net/projects/bosskey/
+
+## C++ STL
+
+Knowledge about C++ STL.
+
+### `vector<bool>` 的不同之处
+
+> 大小不一样, vector bool是1/8倍的bool空间。这个bool是按照bit存的，普通的bool是按照int存的。类似于bitset。
 
 ## Contribution
 
