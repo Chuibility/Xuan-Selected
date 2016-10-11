@@ -1,11 +1,13 @@
 # Xuan-Selected
 
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/Chuibility/Xuan-Select) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
+
 Life knowledge from @LukeXuan in daily life.
 
 ## Table of contents
 
-- Projects.
-- C++ STL.
+- [Projects](#Projects).
+- [C++ STL](#C++ STL).
 - TODO
 
 ## Projects
