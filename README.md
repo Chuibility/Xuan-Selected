@@ -2,7 +2,7 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/Chuibility/Xuan-Select) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-Life knowledge from @LukeXuan in daily life.
+Life knowledge from [@LukeXuan](https://github.com/LukeXuan) in daily life.
 
 ## Table of contents
 
